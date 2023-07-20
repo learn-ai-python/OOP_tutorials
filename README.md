@@ -1,5 +1,5 @@
 # OOP
-OOP (Object-oriented programming) туторіали
+OOP (Object-oriented programming) туторіали.
 
 ## 🎬 Відео-туторіали
 * [Туторіал по ООП. Частина-1](https://www.tiktok.com/@learn.ai.python/video/7185242001275686149?lang=uk-UA)
