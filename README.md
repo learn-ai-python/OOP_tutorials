@@ -1,5 +1,5 @@
 # OOP
-OOP (Object-oriented programming) туторіали.
+OOP (Обʼєктно-орієнтоване програмування) туторіали. Код наведений у файлах цього репозиторію [OOP_tutorial_2_3_4.ipynb](https://github.com/learn-ai-python/OOP_tutorials/blob/master/OOP_tutorial_2_3_4.ipynb), [OOP_tutorial_5.ipynb](https://github.com/learn-ai-python/OOP_tutorials/blob/master/OOP_tutorial_5.ipynb), [OOP_tutorial_6.ipynb](https://github.com/learn-ai-python/OOP_tutorials/blob/master/OOP_tutorial_6.ipynb).
 
 ## 🎬 Відео-туторіали
 * [Туторіал по ООП. Частина-1](https://www.tiktok.com/@learn.ai.python/video/7185242001275686149?lang=uk-UA)
